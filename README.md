@@ -30,7 +30,9 @@
 3. 使用 pip 安装依赖库, 参考命令`pip3 install requests rsa chardet`
 4. 使用 Cron 每日执行 `python3 manga_sign.py`
 
-#### 请勿重复多次修改本文件，您每一次修改就会新增一次Actions  建议仅保留一个，删除掉其余的。
+#### 请勿重复多次修改本文件，您每一次修改就会新增一次Actions  建议仅保留一个，删除掉其余的
+
+好了。
 
 #### 其他项目：
 * [爱奇艺签到](https://github.com/BlueskyClouds/iQIYI-DailyBonus)
