@@ -37,6 +37,8 @@
 刚刚忘记新建action。。
 
 忘了起名字，再试试
+新修改了密码
+
 
 #### 其他项目：
 * [爱奇艺签到](https://github.com/BlueskyClouds/iQIYI-DailyBonus)
